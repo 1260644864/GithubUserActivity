@@ -11,4 +11,5 @@ The V1 uses go-github packages to simplify the process to interact with Github A
 The V2 uses classic method-http package to interact with Github API.
 
 ### Usage
-**github-activity \<username>**
+**github-activity-\<version> \<username>**
+such as github-activity-v1 1260644864
